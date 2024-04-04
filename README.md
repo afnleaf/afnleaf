@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am recent CS grad traditionally educated in C looking to expand my fullstack software development skills.
+I am recent CS grad traditionally educated in C, looking to expand my fullstack software development skills.
 
 I specialize in designing tools that optimize concurrent processes.
 <!--
