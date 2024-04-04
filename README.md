@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am recent CS grad traditionally educated in C, looking to expand my fullstack software development skills.
-
-I specialize in designing tools that optimize concurrent processes.
+I recently graduated with a degree in Computer Science, where I gained a solid understanding of C programming as part of my education. Now, I'm eager to expand my skills in full-stack software development. I specialize in designing tools that optimize concurrent processes.
 <!--
 **afnleaf/afnleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
