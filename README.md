@@ -7,7 +7,7 @@
 - 3d graphics
 
 
-[](https://i.gifer.com/DHUM.gif) [](https://i.gifer.com/DHUM.gif) [](https://i.gifer.com/DHUM.gif)
+![](https://i.gifer.com/DHUM.gif) ![](https://i.gifer.com/DHUM.gif) ![](https://i.gifer.com/DHUM.gif)
 
 <!--
 ### Hi there 👋
