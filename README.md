@@ -1,4 +1,13 @@
-# THIS IS MY GITHUB PROFILE
+# WELCOME TO MY GITHUB PROFILE
+
+**working on**: 
+- hockey analytics
+- html packer + base64
+- three.js visualizations
+- 3d graphics
+
+
+(https://i.gifer.com/DHUM.gif)(https://i.gifer.com/DHUM.gif)(https://i.gifer.com/DHUM.gif)
 
 <!--
 ### Hi there 👋
