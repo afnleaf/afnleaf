@@ -1,13 +1,10 @@
 # WELCOME TO MY GITHUB PROFILE
 
 **working on**: 
-- hockey analytics
+- hockey analytics 
 - html packer + base64
 - three.js visualizations
 - 3d graphics
-
-
- <iframe src="https://stezup.dev/hokej"></iframe> 
 
 <!--
 ### Hi there 👋
