@@ -1,10 +1,13 @@
 # WELCOME TO MY GITHUB PROFILE
 
 **working on**: 
-- hockey analytics 
-- html packer + base64
+
+- htmlpacker, embedded WASM -> Base64
+- VLM + OCR text retrieval
 - three.js visualizations
 - 3d graphics
+- hockey analytics
+
 
 <!--
 ### Hi there 👋
