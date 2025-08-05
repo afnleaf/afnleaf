@@ -2,7 +2,6 @@
 
 **working on**: 
 
-- htmlpacker, embedded WASM -> Base64
 - VLM + OCR text retrieval
 - three.js visualizations
 - 3d graphics
